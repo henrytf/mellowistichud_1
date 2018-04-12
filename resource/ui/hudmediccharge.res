@@ -31,6 +31,7 @@
 		"labelText"		"#TF_UberchargeMinHUD"
 		"textAlignment"	"west"
 		"font"			"Kover48"
+		"fgcolor"		"ubercharge"
 	}
 
 	"IndividualChargesLabel"
